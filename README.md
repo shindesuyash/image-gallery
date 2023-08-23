@@ -2,7 +2,7 @@
 
 
 
-Welcome to my HTML/CSS Image Gallery project! This project showcases an image gallery built using HTML and CSS, allowing users to view a collection of images in an organized and visually appealing manner.
+Welcome to my  Image Gallery project! This project showcases an image gallery built using HTML and CSS, allowing users to view a collection of images in an organized and visually appealing manner.
 
 ## Table of Contents
 
