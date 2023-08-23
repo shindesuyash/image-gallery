@@ -29,7 +29,7 @@ Welcome to my  Image Gallery project! This project showcases an image gallery bu
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-shindesuyash/image-gallery.git`
+1. Clone the repository: `git clone https://github.com/shindesuyash/image-gallery.git`
 2. Navigate to the project directory: `cd image-gallery`
 
 ## Usage
