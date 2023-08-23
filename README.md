@@ -1,4 +1,4 @@
-# HTML/CSS Image Gallery Project
+# Image Gallery Project
 
 
 
